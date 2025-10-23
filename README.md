@@ -21,15 +21,6 @@ This project replicates the mesmerizing infinite zoom effect seen at [zoomquilt.
 - **CSS3** - Modern styling with backdrop filters and gradients
 - **Vite** - Fast build tool and dev server
 
-##  Controls
-
-| Control | Action |
-|---------|--------|
-| **Mouse Wheel Up** | Speed up zoom |
-| **Mouse Wheel Down** | Slow down zoom |
-| **Arrow Up ⬆️** | Increase speed (3x) |
-| **Arrow Down ⬇️** | Decrease speed (0.3x) |
-| **Spacebar** | Pause/Resume animation |
 
 ##  Installation & Setup
 
